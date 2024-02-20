@@ -39,28 +39,29 @@ This is my personal project, carried out with other team members in the same cou
     - Backend: NodeJS, Python for built RESTful API
     - Database: MySQL
     - Others: Figma, Git/Github, Docker,..
-## 🔎 **Requirement Specification**
+## 🔎 **Software Specification**
 - ### Usecase diagram
 ![Usecase diagram](./Usecase-diagram.png)
 - ### Database diagram
 ![Database diagram](./Database-diagram.png)
-
+- ### System Architecture
+![System Architecture](./Shieldtify-system-arch.png)
 
 ## 🛠 Design
 
 - [Figma design here !](https://www.figma.com/file/xhSreqWT5Q5YKeqPJDcRhC/Shieldtify?type=design&node-id=0%3A1&mode=design&t=PWa0pRkWEGeDRaML-1)
 
 ## 📜 Others
-- [Demo AI Chatbot](https://youtu.be/rLT0yXt-gTU)
+- [AI Chatbot - Demo explaination](https://youtu.be/rLT0yXt-gTU)
 - [User Interface](https://youtu.be/rLT0yXt-gTU)
 
 ## 🤝 Contribution
     
 | Member | Contributions |
 | ------ | ------ |
-| Le Quoc Khanh | Main developer, System architect and  Project manager|
+| Le Quoc Khanh | BE developer, System architect and  Project manager|
 | Le Gia Kiet | System Analyst and Design, UI/UX Design and Project sub-manager |
-| Ninh Thien Bao | Developer, Database adminstrator and Reporter |
+| Ninh Thien Bao | FE Developer and Reporter |
 | Nguyen Thi Thuy | Main Reporter and Testing
 
 ## 📧 Contact [Here !](g.kietle@gmail.com)
